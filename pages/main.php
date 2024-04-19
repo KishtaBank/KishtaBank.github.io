@@ -12,7 +12,8 @@
 
     <!-- En-tête -->
     <header>
-
+        <h1>Kishta Bank</h1>
+        <h5>Site officiel de la banque centrale</h5>
     </header>
 
     <!-- Partie principale -->
